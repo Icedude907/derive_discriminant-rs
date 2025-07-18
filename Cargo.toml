@@ -1,0 +1,7 @@
+[package]
+name = "derive_discriminant"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+derive_discriminant-proc = { path = "./derive_discriminant-proc" }
